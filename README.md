@@ -39,16 +39,16 @@
 
 ## 🔥 Featured Projects
 
-### 🚀 Ferrobase (In Progress)
+### 🗄️ GripLite (Active)
 
-> Lightweight cross-platform database client (inspired by DBeaver)
+> Lightweight cross-platform database IDE for MySQL
 
-* Built with **Tauri + Go/Rust + Vue/React**
+* Built with **Wails + Go + React**
 * Focus on:
 
-  * ⚡ Fast query execution
-  * 📊 Efficient large dataset handling (pagination / streaming)
-  * 🧩 Clean and modern UI
+  * ⚡ Fast query execution with multi-statement SQL console
+  * 🔍 Smart autocomplete scoped to the active database
+  * 🧩 Clean, modern UI — inline editing, column-sort, SQL formatting
 * Designed for backend engineers and developers
 
 ---
