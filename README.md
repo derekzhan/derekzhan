@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zhanweichun (Derek Zhan)
+# 👋 Hi, I'm (Derek Zhan)
 
 ## 🚀 About Me
 
